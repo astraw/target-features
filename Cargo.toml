@@ -1,0 +1,8 @@
+[package]
+name = "target-features"
+decription = "return list of enabled cpu target features"
+version = "0.1.0"
+edition = "2021"
+authors = ["AngelicosPhosphoros <xuzin.timur@gmail.com>", "Andrew Straw <strawman@astraw.com>"]
+
+[dependencies]
